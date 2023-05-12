@@ -1,2 +1,3 @@
 # NoMem Application
- Unique password generation and management application.
+NoMem is a user-friendly password manager Android application where users only have to remember one user key that generates all their strong and secure passwords. NoMem doesn't store the passwords (or the user key) at all, but uses other details to generate passwords,which are stored locally, thus allowing the app not to require internet. Updating passwords is hassle-free and can be done with a single click. To add another layer of security, the app enforces an app lock, while the local backup features allow data recovery in case of device loss.
+NoMem is the one-stop solution for secure password management.
